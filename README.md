@@ -1,0 +1,2 @@
+# Diploma
+ETU, diploma, magistr
